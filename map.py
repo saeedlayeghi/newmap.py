@@ -22,3 +22,4 @@ def sezar_crypt(step, realtext):
 code=sezar_crypt(int(input("enter key : ")) ,input("inter string : "))
 code = ''.join(code)
 print("Encryped text is ", code)
+print("hi github")
